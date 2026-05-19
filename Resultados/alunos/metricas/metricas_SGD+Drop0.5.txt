@@ -1,0 +1,74 @@
+Tempo de treino: 1041.88 segundos
+=====================================
+MACRO ACCURACY
+=====================================
+
+Macro Accuracy: 0.9694
+
+=====================================
+5 PIORES CLASSES
+=====================================
+
+Classe 4: 0.8067
+Classe 2: 0.8243
+Classe 36: 0.8986
+Classe 7: 0.9012
+Classe 1: 0.9231
+
+=====================================
+5 MELHORES CLASSES
+=====================================
+
+Classe 42: 1.0000
+Classe 40: 1.0000
+Classe 39: 1.0000
+Classe 33: 1.0000
+Classe 38: 1.0000
+
+=====================================
+ACURÁCIA POR CLASSE
+=====================================
+
+Classe 0: 0.9615
+Classe 1: 0.9231
+Classe 2: 0.8243
+Classe 3: 0.9780
+Classe 4: 0.8067
+Classe 5: 0.9261
+Classe 6: 1.0000
+Classe 7: 0.9012
+Classe 8: 0.9944
+Classe 9: 0.9711
+Classe 10: 1.0000
+Classe 11: 1.0000
+Classe 12: 0.9965
+Classe 13: 1.0000
+Classe 14: 1.0000
+Classe 15: 1.0000
+Classe 16: 1.0000
+Classe 17: 1.0000
+Classe 18: 0.9937
+Classe 19: 0.9355
+Classe 20: 0.9583
+Classe 21: 1.0000
+Classe 22: 1.0000
+Classe 23: 0.9692
+Classe 24: 0.9245
+Classe 25: 0.9955
+Classe 26: 0.9759
+Classe 27: 0.9706
+Classe 28: 1.0000
+Classe 29: 0.9688
+Classe 30: 1.0000
+Classe 31: 1.0000
+Classe 32: 0.9556
+Classe 33: 1.0000
+Classe 34: 0.9853
+Classe 35: 0.9888
+Classe 36: 0.8986
+Classe 37: 0.9310
+Classe 38: 1.0000
+Classe 39: 1.0000
+Classe 40: 1.0000
+Classe 41: 0.9500
+Classe 42: 1.0000

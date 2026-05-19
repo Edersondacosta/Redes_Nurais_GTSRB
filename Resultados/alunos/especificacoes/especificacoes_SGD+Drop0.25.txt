@@ -1,0 +1,16 @@
+=====================================
+ESPECIFICAÇÕES DO EXPERIMENTO
+=====================================
+
+AMBIENTE:
+
+Sistema Operacional: Linux 6.6.122+
+Python: 3.12.13
+PyTorch: 2.10.0+cu128
+CPU: Intel(R) Xeon(R) CPU @ 2.00GHz
+RAM: 12.67 GB
+CUDA disponível: True
+GPU: Tesla T4
+CUDA Version: 12.8
+
+Nome do experimento: SGD+Drop0.25
